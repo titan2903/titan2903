@@ -5,7 +5,7 @@
 - 💻 Code everyday 👽
 - 📚 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn machine learning, big data, and new programming languages
-- ⚡ Fun fact: I love to sport, cat and data
+- ⚡ Fun fact: I love to sport, meme, cat and data
 
 
 ### Connect with me:
