@@ -1,4 +1,4 @@
-### Hi there, I'm Titanio Yudista 👋
+### Hi there, I'm Titan 👋
 
 ## I'm a Software Engineer!!
 
