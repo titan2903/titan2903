@@ -48,4 +48,4 @@
 
 [instagram]: https://www.instagram.com/i_amdevelop/
 [linkedin]: https://www.linkedin.com/in/titanio-yudista-153b79192/
-[gmail]: titanioyudista98@gmail.com
+[gmail]: mailto:titanioyudista98@gmail.com
