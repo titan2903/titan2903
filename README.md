@@ -34,12 +34,14 @@
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vue/vue.png" />
 
 <br />
-___
+
+---
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1000" />
 
 <br />
-___
+
+---
 
 [instagram]: https://www.instagram.com/i_amdevelop/
 [linkedin]: https://www.linkedin.com/in/titanio-yudista-153b79192/
