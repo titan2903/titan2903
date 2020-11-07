@@ -6,8 +6,8 @@
 
 - 💻 Coding everyday 👽
 - 📚 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn machine learning, big data, and new programming languages
-- ⚡ Fun fact: I love to sport, meme, cat and data
+- 🥅 2021 Goals: Learn machine learning, and new programming languages
+- ⚡ Fun fact: I love to sport, meme, cat, and data
 
 
 ## Connect with me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
