@@ -7,7 +7,7 @@
 ## I'm a Software Engineer!!
 
 - 💻 Coding everyday 👽
-- 📚 I’m currently Go Language
+- 📚 I’m currently learning Go Language
 - 🥅 2021 Goals: Learn machine learning, and new programming languages
 - ⚡ Fun fact: I love to sport, meme, cat, and data
 
