@@ -17,6 +17,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]
 [<img align="left" alt="Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][gmail]
+[<img align="left" alt="Gmail" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/gitlab-icon.svg" />][gitlab]
 
 <br />
 
@@ -53,3 +54,4 @@
 [instagram]: https://www.instagram.com/i_amdevelop/
 [linkedin]: https://www.linkedin.com/in/titanio-yudista-153b79192/
 [gmail]: mailto:titanioyudista98@gmail.com
+[gitlab]: https://gitlab.com/titan03
