@@ -9,7 +9,7 @@
 
 - 💻 Coding everyday 👽
 - 📚 I’m currently learning Go Language
-- 🥅 2021 Goals: Learn machine learning, and new programming languages
+- 🥅 2021 Goals: Learn Cloud Computing, and new programming languages
 - ⚡ Fun fact: I love to sport, meme, cat, and data
 
 
