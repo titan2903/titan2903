@@ -8,7 +8,7 @@
 ## I'm a Software Engineer!!
 
 - 💻 Coding everyday 👽
-- 📚 I’m currently learning Go Language
+- 📚 I’m currently learning Go Language and Cloud Computing (AWS)
 - 🥅 2021 Goals: Learn Cloud Computing and new programming languages
 - ⚡ Fun fact: I love to sport, meme, cat, and data
 
