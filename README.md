@@ -1,5 +1,4 @@
-# Hi there, I'm Titan <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Hi.gif" width="10px" hight="10px"> <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
-
+# Hi there, I'm Titan
 <img align="right" alt="PC GIF" src="https://github.com/titan2903/titan2903/blob/main/Assets/PC.gif" width="190" />
 
 ## I'm a Problem Solver
