@@ -1,22 +1,19 @@
-# Hi there, I'm Titan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Hi there, I'm Titan <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Assets/Hi.gif" width="2px"> <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Assets/Mario_Hello_Big.gif" width="30px">
 
+<img align="right" alt="PC GIF" src="https://github.com/titan2903/titan2903/blob/main/Assets/Assets/PC.gif" width="190" />
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
-
-## I'm a Problem Solver!!
+## I'm a Problem Solver
 
 - 💻 Coding everyday 👽
 - 📚 I’m currently learning Go Language and Cloud Computing (AWS)
 - 🥅 2021 Goals: Learn Cloud Computing and new programming languages
 - ⚡ Fun fact: I love to sport, meme, cat, and data
 
+## Connect with me <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif" width="70px">
 
-## Connect with me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]
-[<img align="left" alt="Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][gmail]
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Instagram.svg" />][instagram]
+[<img align="left" alt="Gmail" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Gmail.svg" />][gmail]
 [<img align="left" alt="Gmail" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/gitlab-icon.svg" />][gitlab]
 
 <br />
@@ -45,7 +42,6 @@
 <br />
 
 ---
-
 
 [instagram]: https://www.instagram.com/i_amdevelop/
 [linkedin]: https://www.linkedin.com/in/titanio-yudista-153b79192/
