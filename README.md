@@ -7,7 +7,7 @@
 - 💻 Coding everyday 👽
 - 📚 I’m currently learning Go Language and Cloud Computing (AWS)
 - 🥅 2021 Goals: Learn Cloud Computing and new programming languages
-- ⚡ Fun fact: I love to sport, meme, cat, and data
+- ⚡ Fun fact: I love to sport, cat, and data
 
 ## Connect with me <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif" width="20px">
 
