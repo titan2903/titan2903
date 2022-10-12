@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Learn Cloud Computing and new programming languages
 - ⚡ Fun fact: I love to sport, cat, and data
 
-## Connect with me <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif" width="35px" height="30px">
+## Connect with me <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif" width="40px" height="30px">
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Instagram.svg" />][instagram]
