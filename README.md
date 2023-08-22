@@ -5,7 +5,7 @@
 ## I'm a Problem Solver
 
 - 💻 Coding everyday 👽
-- 📚 I’m currently learning Go Language and Cloud Computing (AWS)
+- 📚 I’m currently learning DevOps 
 - 🥅 2021 Goals: Learn Cloud Computing and new programming languages
 - ⚡ Fun fact: I love to sport, cat, and data
 
