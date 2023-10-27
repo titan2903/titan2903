@@ -4,10 +4,10 @@
 
 ## I'm a Problem Solver
 
-- 💻 Coding everyday 👽
+- 💻 Coding and Automation 👽
 - 📚 I’m currently learning DevOps 
 - 🥅 2023 Goals: Become a DevOps Engineer
-- ⚡ Fun fact: I love sports, cat, and data
+- ⚡ Fun fact: I love sports, cats, and data
 
 ## Connect with me <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif" width="40px" height="30px">
 
