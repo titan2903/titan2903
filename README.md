@@ -46,7 +46,7 @@
 
 <br />
 
-[![Titans's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=titan2903)](https://github.com/anuraghazra/github-readme-stats)
+![Titans's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=titan2903)
 
 ---
 
