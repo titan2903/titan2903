@@ -5,7 +5,7 @@
 ## I'm a Problem Solver
 
 - 💻 Coding and Automation 👽
-- 📚 I’m currently learning DevOps 
+- 📚 I’m currently learning DevOps
 - 🥅 2024 Goals: Studying again majoring in computer science
 - ⚡ Fun fact: I love sports, cats, and data
 
@@ -38,7 +38,7 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan2903&hide=html&layout=compact)
-![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&count_private=true&theme=onedark&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&count_private=true&show_icons=true&theme=onedark&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 <br />
 
