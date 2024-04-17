@@ -44,12 +44,6 @@
 
 ---
 
-<br />
-
-![Titans's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=titan2903)
-
----
-
 [instagram]: https://www.instagram.com/i_amdevelop/
 [linkedin]: https://www.linkedin.com/in/titanio-yudista-153b79192/
 [gmail]: mailto:titanioyudista98@gmail.com
