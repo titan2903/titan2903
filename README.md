@@ -38,7 +38,7 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan2903&hide=html&layout=compact)
-![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&show_icons=true&count_private=true&show_icons=true&theme=onedark&rank_icon=github)
+![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&show_icons=true&count_private=true&show_icons=true&theme=onedark&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 <br />
 
