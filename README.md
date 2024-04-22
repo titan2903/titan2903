@@ -50,7 +50,7 @@
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=titan2903&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=titan2903&hide_border=false&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 ---
 
