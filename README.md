@@ -46,7 +46,11 @@
 
 ---
 
-![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&count_private=true&show_icons=true&theme=onedark&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&count_private=true&show_icons=true&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+---
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=titan2903&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide_border=false)
 
 ---
 
