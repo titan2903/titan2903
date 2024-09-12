@@ -7,7 +7,7 @@
 - 💻 Coding and Automation 👽
 - 📚 I’m currently learning DevOps
 - 🥅 2024 Goals: Studying again majoring in computer science
-- ⚡ Fun fact: I love sports, cats, and data
+- ⚡ Fun fact: I love sports, cats, and problem solving
 
 ## Connect with me <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif" width="40px" height="30px">
 
