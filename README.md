@@ -1,10 +1,7 @@
 # Hi there, I'm Titan
 
-<br />
-
-<img align="right" alt="PC GIF" src="https://github.com/titan2903/titan2903/blob/main/Assets/PC.gif" width="190" />
-
 ## I'm a Problem Solver
+<img align="right" alt="PC GIF" src="https://github.com/titan2903/titan2903/blob/main/Assets/PC.gif" width="190" />
 
 - 💻 Coding and Automation 👽
 - 📚 I’m currently learning DevOps
