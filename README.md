@@ -4,7 +4,7 @@
 <img align="right" alt="PC GIF" src="https://github.com/titan2903/titan2903/blob/main/Assets/PC.gif" width="190" />
 
 - 💻 Coding and Automation 👽
-- 📚 I’m currently learning DevOps
+- 📚 I’m a Student in Computer Science at Cakrawala University.
 - 🥅 2025 Goals: Learn AI and Machine Learning
 - ⚡ Fun fact: I love sports, cats, and problem solving
 
