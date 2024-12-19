@@ -5,7 +5,7 @@
 
 - 💻 Coding and Automation 👽
 - 📚 I’m a Student in Computer Science at Cakrawala University.
-- 🥅 2025 Goals: Learn AI and Machine Learning
+- 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
 - ⚡ Fun fact: I love sports, cats, and problem solving
 
 ## Connect with me <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif" width="40px" height="30px">
