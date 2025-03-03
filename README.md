@@ -1,5 +1,8 @@
 # Hi there, I'm Titan
 
+## [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Platane/) 
+![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+
 ## I'm a Problem Solver
 <img align="right" alt="PC GIF" src="https://github.com/titan2903/titan2903/blob/main/Assets/PC.gif" width="190" />
 
