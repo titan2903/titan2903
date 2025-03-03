@@ -1,6 +1,5 @@
 # Hi there, I'm Titan
 
-## [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Platane/) 
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 ## I'm a Problem Solver
@@ -11,7 +10,7 @@
 - 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
 - ⚡ Fun fact: I love sports, cats, data and problem solving
 
-## Connect with me <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif" width="40px" height="30px">
+## Connect with me ![Handshake](https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif)
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Instagram.svg" />][instagram]
