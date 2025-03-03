@@ -29,7 +29,7 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titan2903&theme=sunset-gradient)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titan2903&theme=sunset-gradient&border_radius=5.0)
 
 ---
 
