@@ -10,7 +10,7 @@
 - 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
 - ⚡ Fun fact: I love sports, cats, data and problem solving
 
-## Connect with me ![Handshake](https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif)
+## Connect with me <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif" width="40px" height="30px">
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Instagram.svg" />][instagram]
