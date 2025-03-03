@@ -3,19 +3,19 @@
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 ## I'm a Problem Solver
-<img align="right" alt="PC GIF" src="https://github.com/titan2903/titan2903/blob/main/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="Assets/PC.gif" width="190" />
 
 - 💻 Coding and Automation 👽
 - 📚 I’m a Student in Data Science at Cakrawala University.
 - 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
 - ⚡ Fun fact: I love sports, cats, data and problem solving
 
-## Connect with me <img src="https://github.com/titan2903/titan2903/blob/main/Assets/Handshake.gif" width="40px" height="30px">
+## Connect with me <img src="Assets/Handshake.gif" width="40px" height="30px">
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Instagram.svg" />][instagram]
-[<img align="left" alt="Gmail" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/Gmail.svg" />][gmail]
-[<img align="left" alt="Gmail" width="22px" src="https://github.com/titan2903/titan2903/blob/main/Assets/gitlab-icon.svg" />][gitlab]
+[<img align="left" alt="LinkedIn" width="22px" src="Assets/Linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="Assets/Instagram.svg" />][instagram]
+[<img align="left" alt="Gmail" width="22px" src="Assets/Gmail.svg" />][gmail]
+[<img align="left" alt="Gmail" width="22px" src="Assets/gitlab-icon.svg" />][gitlab]
 
 <br />
 
