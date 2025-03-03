@@ -28,10 +28,10 @@
 ![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&count_private=true&show_icons=true&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 ---
+<!-- 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titan2903&theme=sunset-gradient&border_radius=5.0)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=titan2903&theme=sunset-gradient)](https://git.io/streak-stats)
-
----
+--- -->
 
 [instagram]: https://www.instagram.com/i_amdevelop/
 [linkedin]: https://www.linkedin.com/in/titanio-yudista-153b79192/
