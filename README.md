@@ -1,6 +1,10 @@
 # Hi there, I'm Titan
 
-![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+###
+
+<img src="https://raw.githubusercontent.com/titan2903/titan2903/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## I'm a Problem Solver
 <img align="right" alt="PC GIF" src="Assets/PC.gif" width="190" />
@@ -9,6 +13,8 @@
 - 📚 I’m a Student in Data Science at Cakrawala University.
 - 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
 - ⚡ Fun fact: I love sports, cats, data and problem solving
+
+###
 
 ## Connect with me <img src="Assets/Handshake.gif" width="40px" height="30px">
 
