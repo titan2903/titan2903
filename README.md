@@ -14,8 +14,7 @@
 - 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
 - ⚡ Fun fact: I love sports, cats, data and problem solving
 
-###
-
+##
 
 <div align="center">
   <h2>Connect with me <img src="Assets/Handshake.gif" width="40px" height="30px"></h2>
