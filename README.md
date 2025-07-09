@@ -14,12 +14,15 @@
 - 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
 - ⚡ Fun fact: I love sports, cats, data and problem solving
 
+<br />
+
 ###
 
-##
+###
+
+## Connect with me <img src="Assets/Handshake.gif" width="40px" height="30px">
 
 <div align="center">
-  <h2>Connect with me <img src="Assets/Handshake.gif" width="40px" height="30px"></h2>
   <a href="https://www.linkedin.com/in/titanio-yudista-153b79192/" style="margin: 0 12px;">
     <img alt="LinkedIn" width="32px" src="Assets/Linkedin.svg" />
   </a>
