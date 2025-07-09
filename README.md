@@ -14,6 +14,8 @@
 - 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
 - ⚡ Fun fact: I love sports, cats, data and problem solving
 
+###
+
 ##
 
 <div align="center">
@@ -39,11 +41,14 @@
 
 ###
 
+###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titan2903&theme=sunset-gradient&border_radius=5.0)
+
+![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&count_private=true&show_icons=true&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan2903&hide=html&layout=compact&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 ###
 
