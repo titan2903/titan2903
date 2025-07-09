@@ -16,23 +16,35 @@
 
 ###
 
-## Connect with me <img src="Assets/Handshake.gif" width="40px" height="30px">
 
-[<img align="left" alt="LinkedIn" width="22px" src="Assets/Linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="Assets/Instagram.svg" />][instagram]
-[<img align="left" alt="Gmail" width="22px" src="Assets/Gmail.svg" />][gmail]
-[<img align="left" alt="Gmail" width="22px" src="Assets/gitlab-icon.svg" />][gitlab]
+<div align="center">
+  <h2>Connect with me <img src="Assets/Handshake.gif" width="40px" height="30px"></h2>
+  <a href="https://www.linkedin.com/in/titanio-yudista-153b79192/" style="margin: 0 12px;">
+    <img alt="LinkedIn" width="32px" src="Assets/Linkedin.svg" />
+  </a>
+  <span style="display:inline-block; width:16px;"></span>
+  <a href="https://www.instagram.com/i_amdevelop/" style="margin: 0 12px;">
+    <img alt="Instagram" width="32px" src="Assets/Instagram.svg" />
+  </a>
+  <span style="display:inline-block; width:16px;"></span>
+  <a href="mailto:titanioyudista98@gmail.com" style="margin: 0 12px;">
+    <img alt="Gmail" width="32px" src="Assets/Gmail.svg" />
+  </a>
+  <span style="display:inline-block; width:16px;"></span>
+  <a href="https://gitlab.com/titan03" style="margin: 0 12px;">
+    <img alt="GitLab" width="32px" src="Assets/gitlab-icon.svg" />
+  </a>
+</div>
 
 <br />
 
 ###
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titan2903&theme=sunset-gradient&border_radius=5.0)
-
-![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&count_private=true&show_icons=true&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan2903&hide=html&layout=compact&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
