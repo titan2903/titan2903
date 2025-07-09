@@ -21,17 +21,60 @@
 
 ---
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titan2903&theme=sunset-gradient&border_radius=5.0)
+
+![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&count_private=true&show_icons=true&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan2903&hide=html&layout=compact&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 ---
 
-![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=titan2903&count_private=true&show_icons=true&rank_icon=github&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+    <img width="12" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo"  />
+    <img width="12" />
+        <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
+    <img width="12" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
-<!-- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titan2903&theme=sunset-gradient&border_radius=5.0)
-
---- -->
 
 [instagram]: https://www.instagram.com/i_amdevelop/
 [linkedin]: https://www.linkedin.com/in/titanio-yudista-153b79192/
