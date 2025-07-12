@@ -46,6 +46,7 @@
 
 ###
 
+## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titan2903&theme=sunset-gradient&border_radius=5.0)
 
@@ -54,6 +55,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan2903&hide=html&layout=compact&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 ###
+
+## Tech Stack
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
