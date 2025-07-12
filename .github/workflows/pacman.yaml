@@ -33,15 +33,12 @@ jobs:
       - name: List files after generate
         run: ls -R
 
-      - name: Copy pacman SVG to dist
-        run: |
-          mkdir -p dist
-          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
-
-      - name: Copy pacman SVG to dist
-        run: |
-          mkdir -p dist
-          cp pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
+      # Jika file SVG sudah di dist, tidak perlu copy lagi
+      # Jika file SVG di root, gunakan langkah berikut:
+      # - name: Copy pacman SVG to dist
+      #   run: |
+      #     mkdir -p dist
+      #     cp pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
 
       - name: Commit and push pacman SVG (with retry)
         run: |
