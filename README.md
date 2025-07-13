@@ -26,15 +26,15 @@
   <a href="https://www.linkedin.com/in/titanio-yudista-153b79192/">
     <img alt="LinkedIn" width="32px" src="Assets/Linkedin.svg" />
   </a>
-  <span style="display:inline-block; width:30px;"></span>
+  <span style="display:inline-block; width:90;"></span>
   <a href="https://www.instagram.com/i_amdevelop/">
     <img alt="Instagram" width="32px" src="Assets/Instagram.svg" />
   </a>
-  <span style="display:inline-block; width:30px;"></span>
+  <span style="display:inline-block; width:90;"></span>
   <a href="mailto:titanioyudista98@gmail.com">
     <img alt="Gmail" width="32px" src="Assets/Gmail.svg" />
   </a>
-  <span style="display:inline-block; width:30px;"></span>
+  <span style="display:inline-block; width:90;"></span>
   <a href="https://gitlab.com/titan03">
     <img alt="GitLab" width="32px" src="Assets/gitlab-icon.svg" />
   </a>
