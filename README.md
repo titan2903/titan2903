@@ -23,19 +23,19 @@
 ## Connect with me <img src="Assets/Handshake.gif" width="40px" height="30px">
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/titanio-yudista-153b79192/" style="margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/titanio-yudista-153b79192/">
     <img alt="LinkedIn" width="32px" src="Assets/Linkedin.svg" />
   </a>
   <span style="display:inline-block; width:16px;"></span>
-  <a href="https://www.instagram.com/i_amdevelop/" style="margin: 0 20px;">
+  <a href="https://www.instagram.com/i_amdevelop/">
     <img alt="Instagram" width="32px" src="Assets/Instagram.svg" />
   </a>
   <span style="display:inline-block; width:16px;"></span>
-  <a href="mailto:titanioyudista98@gmail.com" style="margin: 0 20px;">
+  <a href="mailto:titanioyudista98@gmail.com">
     <img alt="Gmail" width="32px" src="Assets/Gmail.svg" />
   </a>
   <span style="display:inline-block; width:16px;"></span>
-  <a href="https://gitlab.com/titan03" style="margin: 0 20px;">
+  <a href="https://gitlab.com/titan03">
     <img alt="GitLab" width="32px" src="Assets/gitlab-icon.svg" />
   </a>
 </div>
