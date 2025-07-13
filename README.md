@@ -90,6 +90,16 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
     <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="grafana logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=elasticsearch" height="60" alt="elasticsearch logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="prometheus logo"  />
+    <img width="12" />
 </div>
 
 ###
