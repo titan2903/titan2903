@@ -46,7 +46,7 @@
 
 ###
 
-## GitHub Stats
+## <img src="Assets/analytics.png" width="30px" height="30px"> GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=titan2903&theme=sunset-gradient&border_radius=5.0)
 
@@ -56,7 +56,7 @@
 
 ###
 
-## Tech Stack
+## <img src="Assets/computer.png" width="30px" height="30px"> Tech Stack
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
