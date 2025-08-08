@@ -86,8 +86,6 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
-    <img width="12" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
