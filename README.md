@@ -6,6 +6,22 @@
 
 ###
 
+###
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
+###
+
 ## I'm a Problem Solver
 <img align="right" alt="PC GIF" src="Assets/PC.gif" width="190" />
 
