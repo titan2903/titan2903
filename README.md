@@ -6,6 +6,16 @@
 
 ###
 
+## I'm a Problem Solver
+<img align="right" alt="PC GIF" src="Assets/PC.gif" width="190" />
+
+- 💻 Coding and Automation 👽
+- 📚 I’m a Student in Data Science at Cakrawala University.
+- 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
+- ⚡ Fun fact: I love sports, cats, data and problem solving
+
+<br />
+
 ###
 
 <picture>
@@ -19,20 +29,6 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
-###
-
-## I'm a Problem Solver
-<img align="right" alt="PC GIF" src="Assets/PC.gif" width="190" />
-
-- 💻 Coding and Automation 👽
-- 📚 I’m a Student in Data Science at Cakrawala University.
-- 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
-- ⚡ Fun fact: I love sports, cats, data and problem solving
-
-<br />
-
-###
 
 ###
 
