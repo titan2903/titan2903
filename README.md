@@ -23,7 +23,7 @@
 
 - 💻 Coding and Automation 👽
 - 📚 I’m a Student in Data Science at Cakrawala University.
-- 🥅 2025 Goals: Have new skills in AI, Computer Vision and Machine Learning
+- 🥅 2025 Goals: Have new skills in IoT, AI, Computer Vision and Machine Learning
 - ⚡ Fun fact: I love sports, cats, data and problem solving
 
 <br />
