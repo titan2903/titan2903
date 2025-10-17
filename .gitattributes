@@ -1,0 +1,7 @@
+# Exclude CSS and HTML from language stats by marking them as vendored
+*.css linguist-vendored
+*.html linguist-vendored
+
+# Optional: exclude assets and images
+Assets/* linguist-vendored
+images/* linguist-vendored
