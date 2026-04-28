@@ -117,6 +117,10 @@
     <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++ logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="Cloudflare logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="Prometheus logo"  />
 </div>
 
 ###
