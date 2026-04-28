@@ -32,7 +32,7 @@
 
 ## Connect with me <img src="Assets/Handshake.gif" width="40px" height="30px">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/titanio-yudista-153b79192/">
     <img alt="LinkedIn" width="52" height="40" src="Assets/Linkedin.svg" />
   </a>
