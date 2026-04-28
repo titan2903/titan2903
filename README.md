@@ -86,7 +86,7 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo"  />
     <img width="12" />
-        <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
     <img width="12" />
@@ -121,6 +121,26 @@
     <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="Cloudflare logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=bash" height="60" alt="Bash logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ansible" height="60" alt="Ansible logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="Anaconda logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=github" height="60" alt="Github logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=heroku" height="60" alt="Heroku logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="Jenkins logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="Nginx logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="Terraform logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="Tensorflow logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="Pytorch logo"  />
 </div>
 
 ###
