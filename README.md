@@ -141,6 +141,14 @@
     <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="Tensorflow logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="Pytorch logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ros" height="60" alt="ROS logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=selenium" height="60" alt="Selenium logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="Raspberry Pi logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="RabbitMQ logo"  />
 </div>
 
 ###
