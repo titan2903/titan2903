@@ -21,7 +21,7 @@
 ## I'm a Problem Solver
 <img align="right" alt="PC GIF" src="Assets/PC.gif" width="190" />
 
-- 💻 Coding and Data 👽
+- 💻 Coding and Data.
 - 📚 I’m a Student in Data Science at Cakrawala University.
 - 🥅 2026 Goals: Have new skills in AI, Data Engineering, and Machine Learning
 - ⚡ Fun fact: I love sports, cats, data, and problem-solving
